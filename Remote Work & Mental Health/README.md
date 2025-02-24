@@ -59,8 +59,8 @@
 ## 📂 專案結構
 
 📂 遠距工作對心理健康的影響 
-│── 📄 remote.ipynb # Jupyter Notebook (完整分析) 
-│── 📄 remote_report.pdf # 研究報告 PDF 版本 
-│── 📄 remote_briefreport.pdf # 簡報 
-│── 📄 README.md # 本文件 
+│── 📄 remote.ipynb # Jupyter Notebook (完整分析)   
+│── 📄 remote_report.pdf # 研究報告 PDF 版本   
+│── 📄 remote_briefreport.pdf # 簡報   
+│── 📄 README.md # 本文件   
 
